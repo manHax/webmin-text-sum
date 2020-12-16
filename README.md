@@ -2,6 +2,7 @@
 
 ### Crawling text
 data yang digunakan pada percobaan ini adalah hasil crawling menggunakan library **scrapy python** [folder news](https://github.com/manHax/webmin-text-sum/tree/main/news).
+[crawling using python](youtube.com/watch?v=bltDmV6Yw3c)
 
 ### Pra proses text
 dari data hasil crawling tersebut dilakukan pra-proses untuk menghilangkan karakter-karakter yang tidak diperlukan, emoticon dan sumber berita (dalam kasus ini saya menghilangkan kata `jawapos.com` pada paragraph).
